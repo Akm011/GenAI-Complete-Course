@@ -1,0 +1,9 @@
+1. powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+2. $env:Path = "C:\Users\MAURYA\.local\bin;$env:Path"
+3. uv init
+4. uv venv <venv_name>
+   to create a virtual environment
+5. <venv_name>\Scripts\activate
+   to activate the virtual environment
+6. uv add -r requirements.txt
+   to add packages from requirements.txt

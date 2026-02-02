@@ -1,0 +1,14 @@
+tensorflow
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+neo4j==5.14
+langchain
+langchain_community
+langchain_openai
+langchain_groq
+python-dotenv

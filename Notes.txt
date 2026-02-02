@@ -1,0 +1,17 @@
+#Create myvenv (virtual env)
+
+##Using python
+python -m venv myvenv
+myvenv\Scripts\activate
+
+##Using anaconda
+1. conda create -p myvenv python==3.12
+2. conda activate "C:\Users\MAURYA\Desktop\My Document\akm\Tech\GenAI\myvenv"
+3. conda info --envs 
+4. conda deactivate
+
+
+
+
+Requirements
+1.  ipykernal
